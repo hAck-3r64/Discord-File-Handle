@@ -112,4 +112,4 @@ async def democracyvotes(ctx):
     await ctx.send(file=discord.File('votes.txt')
 
 
-@bot.run("OTUyNTczNzg2NzUyOTc0ODQ4.Yi3_eA.1Es8Otzcy0bN1MJtKA91WSeSuFY")
+@bot.run(TOKEN)
